@@ -28,7 +28,5 @@
     * [\(三\)刪除聯絡人](chapter2/4e94-lian-luo-ren/56db29-shan-chu-lian-luo-ren.md)
     * [\(四\)下載VCard](chapter2/4e94-lian-luo-ren/4e9429-xia-zai-vcard.md)
   * [六.關於臺北卡](chapter2/516d-dian-zi-piao-zheng-guan-li.md)
-    * [\(一\)悠遊卡管理](chapter2/516d-dian-zi-piao-zheng-guan-li/4e0029-you-you-qia-guan-li.md)
-    * [\(二\)悠遊卡發票中獎列表](chapter2/516d-dian-zi-piao-zheng-guan-li/4e8c29-you-you-qia-fa-piao-zhong-jiang-lie-biao.md)
   * [七. 聯絡我們](chapter2/4e03-fu-wu-guan-li.md)
 
