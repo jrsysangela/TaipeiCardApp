@@ -1,8 +1,12 @@
-## 六**. 電子票證管理**
+## 六**. 關於臺北卡**
 
-* ### 主要提供使用者悠遊卡管理及悠遊卡發票自動兌獎功能兩項服務.
-* ### [\(一\)悠遊卡管理](/chapter2/516d-dian-zi-piao-zheng-guan-li/4e0029-you-you-qia-guan-li.md)
-* ### [\(二\)悠遊卡發票中獎列表](/chapter2/516d-dian-zi-piao-zheng-guan-li/4e8c29-you-you-qia-fa-piao-zhong-jiang-lie-biao.md)
+* ### 提供系統版次、應用程式ID 及開放原始碼授權資訊。
+
+* ### 若點擊 \[開放原始碼授權詳細資訊\] 連結，可看到授權書完整說明。
+
+* ### ![](/assets/taipeicard_note3.png)
+
+### 
 
 ### 
 
