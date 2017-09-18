@@ -23,10 +23,6 @@
     * [\(三\)下載VCard](chapter2/56db-peng-you/4e0929-xia-zai-vcard.md)
     * [\(四\)移除朋友](chapter2/56db-peng-you/56db29-yi-chu-peng-you.md)
   * [五.朋友](chapter2/4e94-lian-luo-ren.md)
-    * [\(一\)新增聯絡人](chapter2/4e94-lian-luo-ren/4e0029-xin-zeng-lian-luo-ren.md)
-    * [\(二\)匯出VCard](chapter2/4e94-lian-luo-ren/4e8c29-hui-chu-vcard.md)
-    * [\(三\)刪除聯絡人](chapter2/4e94-lian-luo-ren/56db29-shan-chu-lian-luo-ren.md)
-    * [\(四\)下載VCard](chapter2/4e94-lian-luo-ren/4e9429-xia-zai-vcard.md)
   * [六.關於臺北卡](chapter2/516d-dian-zi-piao-zheng-guan-li.md)
   * [七. 聯絡我們](chapter2/4e03-fu-wu-guan-li.md)
 
