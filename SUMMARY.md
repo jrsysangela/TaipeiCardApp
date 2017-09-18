@@ -18,7 +18,7 @@
     * [\(三\)電子發票](chapter2/56db-peng-you/4e0929-xia-zai-vcard.md)
     * [\(四\)電子發票兌獎](chapter2/56db-peng-you/56db29-yi-chu-peng-you.md)
     * \(五\)網路市民紅利查詢
-    * \(六\)臺北卡紅利點數查詢
+    * [\(六\)臺北卡紅利點數查詢](chapter2/56db-peng-you/516d29-tai-bei-qia-hong-li-dian-shu-cha-xun.md)
   * [五.朋友](chapter2/4e94-lian-luo-ren.md)
   * [六.關於臺北卡](chapter2/516d-dian-zi-piao-zheng-guan-li.md)
   * [七. 聯絡我們](chapter2/4e03-fu-wu-guan-li.md)
