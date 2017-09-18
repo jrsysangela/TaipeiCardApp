@@ -17,21 +17,19 @@
 
 ### Step6.一旦對方接受邀約，就會互為朋友，可分享彼此的個人資訊、聯絡方式及憑證資訊。
 
-
-
-### _**For Angela Shen **_ 
+### _**For Angela Shen **_
 
 * ![](/assets/邀請清單1.png)
 
-
-
 ### _For HermionGranger  _
 
+* ![](/assets/H_menu2_forfriend.png)
 
+   
 
+### _**For Angela Shen **_
 
-
-
+*  ![](/assets/friend_final.png)
 
 
 
