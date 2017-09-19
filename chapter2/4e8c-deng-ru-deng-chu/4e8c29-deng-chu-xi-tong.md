@@ -1,7 +1,7 @@
 ### **\(二\). 登出系統**
 
-* ### 使用者點擊 \[登出\]，登出系統。![](/assets/logout.png)
-* ### ![](/assets/logout.png)![](/assets/logout.png)
+* ### 用者點擊 \[登出\]，登出系統。
+* ### ![](/assets/logout.png)
 
 
 
