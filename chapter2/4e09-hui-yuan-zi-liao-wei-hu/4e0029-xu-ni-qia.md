@@ -1,4 +1,4 @@
-### \(一\). 虛擬卡申請
+1. ### \(一\). 虛擬卡申請
 
 * ### 使用者若還未申請虛擬卡，系統會邀請使用者先行進行申請：
 * ### Step1. 點擊 畫面中的  “ + “ 開始申請作業 :
@@ -13,12 +13,11 @@
 
 ### Step5. 系統顯示使用者選定的虛擬卡版型；使用者確認無誤後，點擊 \[申請虛擬卡鈕\]，                進行後續作業。![](/assets/VC05_cardConfirm.png)
 
-### ![](/assets/VC05_cardConfirm.png)
+* ### ![](/assets/VC05_cardConfirm.png)
 
 ### ![](/assets/VC05_cardConfirm.png)
 
 * ### Step6. 虛擬卡申請作業完成。 系統顯示虛擬卡最後選定版型及相對應虛擬卡服務：
-
 * ### ![](/assets/VC06_cardfunction.png)
 
 
