@@ -4,7 +4,7 @@
 * [壹.系統概述](chapter1.md)
   * [一.文件說明](chapter1/11.md)
   * [二 .功能列表](chapter1/12.md)
-* [貳.會員中心使用者操作說明](chapter2.md)
+* [貳.市民虛擬卡應用程式操作說明](chapter2.md)
   * [一.註冊](chapter2/21.md)
     * [\(一\).E-Mail認證](chapter2/21/211.md)
     * [\(二\).手機門號認證](chapter2/21/212.md)
