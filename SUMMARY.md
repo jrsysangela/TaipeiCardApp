@@ -25,5 +25,4 @@
   * [五.朋友](chapter2/4e94-lian-luo-ren.md)
   * [六.關於臺北卡](chapter2/516d-dian-zi-piao-zheng-guan-li.md)
   * [七. 聯絡我們](chapter2/4e03-fu-wu-guan-li.md)
-    * [rrr](chapter2/4e03-fu-wu-guan-li/rrr.md)
 
