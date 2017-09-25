@@ -18,7 +18,7 @@
   * [四.會員中心](chapter2/56db-peng-you.md)
     * [\(一\)帳號資訊](chapter2/56db-peng-you/4e0029-sou-xun-peng-you.md)
     * [\(二\)變更密碼](chapter2/56db-peng-you/4e8c29-hui-chu-vcard.md)
-    * [\(三\)電子發票](chapter2/56db-peng-you/4e0929-xia-zai-vcard.md)
+    * [\(三\)電子發票](chapter2/56db-peng-you/4e0929-xia-zai-vcard)
     * [\(四\)電子發票兌獎](chapter2/56db-peng-you/56db29-yi-chu-peng-you.md)
     * [\(五\)網路市民紅利查詢](chapter2/56db-peng-you/4e9429-wang-lu-shi-min-hong-li-cha-xun.md)
     * [\(六\)臺北卡紅利點數查詢](chapter2/56db-peng-you/516d29-tai-bei-qia-hong-li-dian-shu-cha-xun.md)
